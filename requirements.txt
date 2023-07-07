@@ -1,0 +1,13 @@
+PyQt5
+qframelesswindow
+keyboard
+asyncio
+datetime
+pillow
+threading
+pilmoji
+emoji
+random
+webbrowser
+json
+pygame
