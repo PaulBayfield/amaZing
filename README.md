@@ -67,7 +67,7 @@ python main.py
 
 ## En utilisant le .exe
 
-> Téléchargez le fichier `amaZing.exe` et lancez le !
+> Téléchargez le fichier [`amaZing.exe`](https://github.com/PaulBayfield/amaZing/releases/download/amaZing/amaZing.exe) et lancez le !
 
 > **C'est normal si le fichier est un peu volumineux, il contient tous les fichiers pour son bon fonctionnement...**
 
